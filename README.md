@@ -95,3 +95,4 @@ wordlist: /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
 
 # CTF-Writeups
 # CTF-Writeups
+# CTF-Writeups

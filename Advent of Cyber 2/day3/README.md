@@ -1,7 +1,7 @@
-Advent of Cyber 2 - Day 2 - The Elf Strikes Back!
+Advent of Cyber 2 - Day 3 - Christmas Chaos
 =================================================
 
-> Armand Alvarez | 17 Sept 2021
+> Armand Alvarez | 21 Sept 2021
 
 > github.com/Armand-Alvarez
 

@@ -25,7 +25,7 @@ Opening the developer tools, we can see the name and value of the only cookie in
 
 ![authentication cookie](./screenshots/1_cookie.png)
 
---
+---
 
 # In what format is the value of this cookie encoded?
 
@@ -35,7 +35,7 @@ We can copy and paste the value for further inspection:
 
 By looking at each value, we can see all values are between *0 - f* which is **hexadecimal**
 
---
+---
 
 # Having decoded the cookie, what format is the data stored in?
 
